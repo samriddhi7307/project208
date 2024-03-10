@@ -29,7 +29,7 @@ def musicWindow():
     playButton.place(x=30,y=200)
 
     Stop = Button(window,text = "Stop", width=10, bd=1, bg='SkyBlue',font = ("Claibiri",10))
-    Stop.place(x=30,y=200)
+    Stop.place(x=200,y=200)
 
     Upload = Button(window,text = "Upload", width=10, bd=1, bg='SkyBlue',font = ("Claibiri",10))
     Upload.place(x=30,y=250)
